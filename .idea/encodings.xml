@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JMSClient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JMSServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JMSStudentClient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JMSStudentServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringAsyncConsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProducer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringSyncConsumer" charset="UTF-8" />
+  </component>
+</project>
